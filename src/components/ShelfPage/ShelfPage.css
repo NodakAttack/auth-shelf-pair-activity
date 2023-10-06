@@ -14,6 +14,11 @@ div.desc {
     text-align: center;
 }
 
+div.username {
+    padding: 15px;
+    text-align: center;
+}
+
 * {
     box-sizing: border-box;
 }
